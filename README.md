@@ -27,7 +27,7 @@ Very first prototype playing is now available
 
 ![같이 플레이 할 사람찾기](data/스크린샷,%202020-10-15%2019-19-42.png)  
 접속한 상태에서 오른쪽 아래 'PlayWith' 버튼을 누르면 같이 게임할 친구를 고를 수 있습니다.  
-친구가 보이지 않을 때는 접속할 때까지 기다리거나 'Playwith' 버튼을 다시 눌러주시면 리스트기 보이게 됩니다.  
+친구가 보이지 않을 때는 접속할 때까지 기다리거나 'Playwith' 버튼을 다시 눌러주시면 리스트가 보이게 됩니다.  
 같은 서버에 접속한 사람 리스트에서 이름을 선택하고 'Let's Play' 버튼을 누르면 두 사람은 게임 준비 상태가 됩니다.
 
 ![함선과 아이템 배치](./data/0388.gif)  
@@ -101,7 +101,7 @@ Very first prototype playing is now available
 어떤 부분이 재미있었나요? 아니면 지루했나요?  
 플레이 후기를 남겨주시면 개발에 참고하겠습니다.  
 
-[여기를 눌러 작성하기](https://is2you2.github.io/suggestion/) (추가기능 준비중)
+[여기를 눌러 작성하기](https://is2you2.github.io/suggestion/)
 
 ## 핑계거리
 **[개발 속도가 느림]**  
