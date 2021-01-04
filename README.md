@@ -3,10 +3,14 @@ Very first prototype playing is now available
 ![기능시안](./data/Screenshot_2020-10-14_152834.png)  
 
 ## 설명은 필요없고 게임하게 해줘요
-<!-- [한국 서울시 서버](http://3.35.210.70)  
-[미국 버지니아주 북부 서버](http://34.207.166.150)  
-2021년이 되면 본 작업을 위해 서버 운영을 종료합니다 -->
-지금은 별도 서버를 운영하지 않습니다  
+~~[한국 서울시 서버](http://3.35.210.70)~~  
+~~[미국 버지니아주 북부 서버](http://34.207.166.150)~~  
+지금은 별도 서버를 운영하지 않습니다, 대신 다른 방법이 제시됩니다  
+[프로토타입 게임 apk](https://github.com/is2you2/airCraftCarrierTable_export/raw/master/data/airCraftCarrierTable.apk)  
+위 안드로이드 파일은 프로토타입 게임 앱 파일이며 게임서버를 만들 수 있습니다.  
+친구와 같은 공유기를 이용하여 게임할 수 있습니다  
+게임 참여를 위해 위 apk 파일을 설치하거나, [웹 페이지](https://is2you2.github.io/aircraftcarrier_table_proto/)에 방문하여 서버 접속을 시도할 수 있습니다. 웹 페이지에서는 서버를 만들 수 없습니다.
+
 다음 이 시간에 ..
 
 > **업데이트됨**  
